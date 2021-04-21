@@ -10,6 +10,9 @@ public class Hola_mundo {
 		if (n == 0) {
 			System.out.println("soy cero");
 		}
+		else if (n > 0) {
+			System.out.println("soy positivo");
+		}
 		
 	}
 
